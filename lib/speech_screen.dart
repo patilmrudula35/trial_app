@@ -1,5 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 
+
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -90,7 +91,7 @@ class _SpeechScreenState extends State<SpeechScreen> {
         centerTitle: true,
         backgroundColor: bgColor,
         elevation: 0.0,
-        title: Text("Chatbot for Mrudula", style: TextStyle(
+        title: Text("Chatbot for Rajesh", style: TextStyle(
           fontWeight: FontWeight.w600,
           color: textcolor ),
           ),
