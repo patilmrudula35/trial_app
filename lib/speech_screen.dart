@@ -79,7 +79,7 @@ class _SpeechScreenState extends State<SpeechScreen> {
           },
           child: CircleAvatar(
             backgroundColor: bgColor,
-            radius: 35,
+            radius: 40,
             child: Icon(isListening ? Icons.mic : Icons.mic_none, 
             color: textcolor)
             ),
